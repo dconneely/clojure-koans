@@ -6,6 +6,8 @@ This repository was forked from
 [functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans/)
 in order to track my progress on the exercises.
 
+I achieved clojure enlightenment. Namaste.
+
 ### Contributing, Credits, License, etc.
 
 See the
