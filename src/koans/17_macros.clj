@@ -63,5 +63,4 @@
   (= '(+ 10 (2 * 3)) (macroexpand '(infix-better ( 10 + (2 * 3)))))
 
   "Really, you don't understand recursion until you understand recursion"
-; (= 36 (r-infix (10 + (2 * 3) + (4 * 5)))))
   (= 36 (r-infix (10 + (2 * 3) + (4 * 5)))))
